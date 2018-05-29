@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>prueba</title>
+<title>[COLOR lime]prueba[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/x7r6xx/miaddon/master/miaddon2.xml</externallink>
+<externallink>https://raw.githubusercontent.com/x7r6xx/miaddon/master/test1.xml</externallink>
 </item>
  
 <item>
@@ -13,7 +13,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/x7r6xx/miaddon/master/test1.xml</externallink>
+<externallink>https://raw.githubusercontent.com/x7r6xx/miaddon/master/miaddon2.xml</externallink>
 </item>
  
 <item>
